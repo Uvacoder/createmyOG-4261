@@ -24,7 +24,7 @@ export default async function (req) {
               <h1 tw="font-extrabold text-7xl ">OGHub</h1>
             </p>
             <strong tw="mt-1 block text-4xl font-extrabold text-slate-300">
-              @ishaanbedi/OGHub
+              @uvacoder/OGHub
             </strong>
             <p tw="mt-4 text-slate-100 text-2xl leading-relaxed">
               Generate Dynamic Cover Images for your GitHub Repositories
