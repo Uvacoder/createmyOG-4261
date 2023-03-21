@@ -91,7 +91,7 @@ const Home = () => {
           name="keywords"
           content="open graph, github, github open graph, github open graph image "
         />
-        <meta name="author" content="Ishaan Bedi" />
+        <meta name="author" content="uvacoder" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta property="og:title" content="OGHub" />
         <meta
@@ -101,8 +101,8 @@ const Home = () => {
         <meta property="og:image" content="/og.png" />
         <meta property="og:url" content="https://oghub.vercel.app" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@ishnbedi" />
-        <meta name="twitter:creator" content="@ishnbedi" />
+        <meta name="twitter:site" content="@VaLandscapes" />
+        <meta name="twitter:creator" content="@VaLandscapes" />
         <meta name="twitter:title" content="OGHub" />
         <meta
           name="twitter:description"
@@ -134,7 +134,7 @@ const Home = () => {
               project.
             </h2>
             <p className="mb-6 text-base text-blue-50 md:text-lg">
-              Just type the username/repository and see the magic.
+              Just type the username/repository and watch the OG be the gangsta.
             </p>
             <form className="flex flex-col items-center w-full mb-4 md:flex-row md:px-16">
               <input
